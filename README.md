@@ -1,10 +1,10 @@
-# poweroutage_dot_us.json  – Tracking power outages across many utilities in Florida via poweroutage.us
+# Tracking power outages across many utilities in Florida via poweroutage.us
 
-# outages.json  – Tracking power outages in Florida via Florida Power & Light
+The file poweroutage_dot_us.json has updates every 5 minutes with total customers who've lost power by county in Florida. The file includes total customers in the county. This is pulled from the Poweroutage.us [website here](https://poweroutage.us/area/state/florida).
 
-Power outages tracker in Florida Power &amp; Light Company using Github Actions triggered every 20 minutes.
+# Tracking power outages from Florida Power & Light
 
-This tracker uses the JSON feed (https://www.fplmaps.com/customer/outage/CountyOutages.json) intercepted from [this website](https://www.fplmaps.com/index.html).
+The file outages.json trackes power outages reported by Florida Power &amp; Light Company directly. This tracker uses the JSON feed (https://www.fplmaps.com/customer/outage/CountyOutages.json) intercepted from [this website](https://www.fplmaps.com/index.html).
 
 Data as of Sep 28, 2022 at 12:15pm ET.
 
