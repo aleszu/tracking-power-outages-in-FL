@@ -1,4 +1,6 @@
-# Tracking power outages in Florida via FPL
+# poweroutage_dot_us.json  – Tracking power outages across many utilities in Florida via poweroutage.us
+
+# outages.json  – Tracking power outages in Florida via Florida Power & Light
 
 Power outages tracker in Florida Power &amp; Light Company using Github Actions triggered every 20 minutes.
 
