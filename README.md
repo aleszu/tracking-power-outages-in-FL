@@ -4,6 +4,8 @@ Power outages tracker in Florida Power &amp; Light Company using Github Actions 
 
 This tracker uses the JSON feed (https://www.fplmaps.com/customer/outage/CountyOutages.json) intercepted from [this website](https://www.fplmaps.com/index.html).
 
+Data as of Sep 28, 2022 at 12:15pm ET.
+
 |	COUNTY 	|	OUT	|	RESTORED	|	AFFECTED	|	TOTAL SERVED	|
 |	---	|	---	|	---	|	---	|	---	|
 |	Alachua	|	0	|		|		|	1,267	|
