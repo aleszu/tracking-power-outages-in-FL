@@ -6,7 +6,7 @@
       "CountyName": "Alachua",
       "CountyState": null,
       "CountyStatus": "#0250A0",
-      "OutageCount": 144,
+      "OutageCount": 142,
       "CustomerCount": 133068
     },
     {
@@ -69,8 +69,8 @@
       "CountyName": "Citrus",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 3,
-      "CustomerCount": 127359
+      "OutageCount": 2,
+      "CustomerCount": 93566
     },
     {
       "CountyId": 298,
@@ -78,7 +78,7 @@
       "CountyName": "Clay",
       "CountyState": null,
       "CountyStatus": "#014FA1",
-      "OutageCount": 53,
+      "OutageCount": 40,
       "CustomerCount": 95583
     },
     {
@@ -87,7 +87,7 @@
       "CountyName": "Collier",
       "CountyState": null,
       "CountyStatus": "#A92200",
-      "OutageCount": 136561,
+      "OutageCount": 136610,
       "CustomerCount": 262833
     },
     {
@@ -113,8 +113,8 @@
       "UtilityId": null,
       "CountyName": "Duval",
       "CountyState": null,
-      "CountyStatus": "#0250A0",
-      "OutageCount": 664,
+      "CountyStatus": "#03519F",
+      "OutageCount": 1001,
       "CustomerCount": 476341
     },
     {
@@ -195,7 +195,7 @@
       "CountyName": "Hendry",
       "CountyState": null,
       "CountyStatus": "#A92300",
-      "OutageCount": 8134,
+      "OutageCount": 8136,
       "CustomerCount": 15770
     },
     {
@@ -203,9 +203,9 @@
       "UtilityId": null,
       "CountyName": "Hernando",
       "CountyState": null,
-      "CountyStatus": "#0A5498",
-      "OutageCount": 787,
-      "CustomerCount": 132406
+      "CountyStatus": "#004FA2",
+      "OutageCount": 1,
+      "CustomerCount": 101186
     },
     {
       "CountyId": 314,
@@ -213,7 +213,7 @@
       "CountyName": "Highlands",
       "CountyState": null,
       "CountyStatus": "#6F0D01",
-      "OutageCount": 56163,
+      "OutageCount": 56331,
       "CustomerCount": 65368
     },
     {
@@ -221,8 +221,8 @@
       "UtilityId": null,
       "CountyName": "Hillsborough",
       "CountyState": null,
-      "CountyStatus": "#AB8300",
-      "OutageCount": 112779,
+      "CountyStatus": "#AB8400",
+      "OutageCount": 111433,
       "CustomerCount": 673532
     },
     {
@@ -250,15 +250,15 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 1,
-      "CustomerCount": 4366
+      "CustomerCount": 4371
     },
     {
       "CountyId": 319,
       "UtilityId": null,
       "CountyName": "Lake",
       "CountyState": null,
-      "CountyStatus": "#84901E",
-      "OutageCount": 13795,
+      "CountyStatus": "#7B8C27",
+      "OutageCount": 12857,
       "CustomerCount": 169670
     },
     {
@@ -267,7 +267,7 @@
       "CountyName": "Lee",
       "CountyState": null,
       "CountyStatus": "#710D01",
-      "OutageCount": 401584,
+      "OutageCount": 401636,
       "CustomerCount": 471806
     },
     {
@@ -276,7 +276,7 @@
       "CountyName": "Leon",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 2,
       "CustomerCount": 131042
     },
     {
@@ -285,7 +285,7 @@
       "CountyName": "Levy",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 3,
       "CustomerCount": 24811
     },
     {
@@ -320,8 +320,8 @@
       "UtilityId": null,
       "CountyName": "Marion",
       "CountyState": null,
-      "CountyStatus": "#05519D",
-      "OutageCount": 595,
+      "CountyStatus": "#04519E",
+      "OutageCount": 561,
       "CustomerCount": 208068
     },
     {
@@ -357,7 +357,7 @@
       "CountyName": "Nassau",
       "CountyState": null,
       "CountyStatus": "#014FA1",
-      "OutageCount": 23,
+      "OutageCount": 21,
       "CustomerCount": 51187
     },
     {
@@ -366,7 +366,7 @@
       "CountyName": "Okeechobee",
       "CountyState": null,
       "CountyStatus": "#AE2C00",
-      "OutageCount": 10704,
+      "OutageCount": 10705,
       "CustomerCount": 22938
     },
     {
@@ -374,8 +374,8 @@
       "UtilityId": null,
       "CountyName": "Orange",
       "CountyState": null,
-      "CountyStatus": "#B07300",
-      "OutageCount": 129102,
+      "CountyStatus": "#AF7400",
+      "OutageCount": 127925,
       "CustomerCount": 633025
     },
     {
@@ -383,8 +383,8 @@
       "UtilityId": null,
       "CountyName": "Osceola",
       "CountyState": null,
-      "CountyStatus": "#48735A",
-      "OutageCount": 8897,
+      "CountyStatus": "#3A6B68",
+      "OutageCount": 7129,
       "CustomerCount": 200156
     },
     {
@@ -401,17 +401,17 @@
       "UtilityId": null,
       "CountyName": "Pasco",
       "CountyState": null,
-      "CountyStatus": "#1F5E83",
-      "OutageCount": 3515,
-      "CustomerCount": 183819
+      "CountyStatus": "#105792",
+      "OutageCount": 3025,
+      "CustomerCount": 302871
     },
     {
       "CountyId": 336,
       "UtilityId": null,
       "CountyName": "Pinellas",
       "CountyState": null,
-      "CountyStatus": "#A88B00",
-      "OutageCount": 83961,
+      "CountyStatus": "#A88C00",
+      "OutageCount": 83085,
       "CustomerCount": 570938
     },
     {
@@ -419,17 +419,17 @@
       "UtilityId": null,
       "CountyName": "Polk",
       "CountyState": null,
-      "CountyStatus": "#B74100",
-      "OutageCount": 125270,
-      "CustomerCount": 355512
+      "CountyStatus": "#B84100",
+      "OutageCount": 124860,
+      "CustomerCount": 355056
     },
     {
       "CountyId": 338,
       "UtilityId": null,
       "CountyName": "Putnam",
       "CountyState": null,
-      "CountyStatus": "#65813D",
-      "OutageCount": 2673,
+      "CountyStatus": "#68823A",
+      "OutageCount": 2746,
       "CustomerCount": 42813
     },
     {
@@ -447,7 +447,7 @@
       "CountyName": "Seminole",
       "CountyState": null,
       "CountyStatus": "#B53C00",
-      "OutageCount": 86034,
+      "OutageCount": 86236,
       "CustomerCount": 225139
     },
     {
@@ -456,7 +456,7 @@
       "CountyName": "St. Lucie",
       "CountyState": null,
       "CountyStatus": "#527850",
-      "OutageCount": 8810,
+      "OutageCount": 8811,
       "CustomerCount": 173837
     },
     {
@@ -465,8 +465,8 @@
       "CountyName": "Sumter",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 3,
-      "CustomerCount": 111571
+      "OutageCount": 1,
+      "CustomerCount": 85444
     },
     {
       "CountyId": 344,
@@ -475,7 +475,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 1,
-      "CustomerCount": 24280
+      "CustomerCount": 24287
     },
     {
       "CountyId": 345,
@@ -501,7 +501,7 @@
       "CountyName": "Unknown",
       "CountyState": null,
       "CountyStatus": "#A88D00",
-      "OutageCount": 2008,
+      "OutageCount": 2007,
       "CustomerCount": 14078
     },
     {
@@ -509,8 +509,8 @@
       "UtilityId": null,
       "CountyName": "Volusia",
       "CountyState": null,
-      "CountyStatus": "#A21300",
-      "OutageCount": 187292,
+      "CountyStatus": "#A11300",
+      "OutageCount": 189420,
       "CustomerCount": 312233
     },
     {
@@ -555,7 +555,7 @@
       "CountyName": "Okaloosa",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 27,
+      "OutageCount": 30,
       "CustomerCount": 115241
     },
     {
