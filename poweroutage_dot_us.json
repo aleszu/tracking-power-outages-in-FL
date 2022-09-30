@@ -5,8 +5,8 @@
       "UtilityId": null,
       "CountyName": "Alachua",
       "CountyState": null,
-      "CountyStatus": "#0B5597",
-      "OutageCount": 943,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 68,
       "CustomerCount": 133068
     },
     {
@@ -70,7 +70,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 5,
-      "CustomerCount": 154815
+      "CustomerCount": 67439
     },
     {
       "CountyId": 298,
@@ -78,7 +78,7 @@
       "CountyName": "Clay",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 12,
+      "OutageCount": 8,
       "CustomerCount": 95583
     },
     {
@@ -114,7 +114,7 @@
       "CountyName": "Duval",
       "CountyState": null,
       "CountyStatus": "#0150A1",
-      "OutageCount": 431,
+      "OutageCount": 433,
       "CustomerCount": 476341
     },
     {
@@ -203,9 +203,9 @@
       "UtilityId": null,
       "CountyName": "Hernando",
       "CountyState": null,
-      "CountyStatus": "#14598E",
-      "OutageCount": 163,
-      "CustomerCount": 13354
+      "CountyStatus": "#0250A0",
+      "OutageCount": 169,
+      "CustomerCount": 132406
     },
     {
       "CountyId": 314,
@@ -213,7 +213,7 @@
       "CountyName": "Highlands",
       "CountyState": null,
       "CountyStatus": "#760E01",
-      "OutageCount": 54032,
+      "OutageCount": 54053,
       "CustomerCount": 65368
     },
     {
@@ -221,8 +221,8 @@
       "UtilityId": null,
       "CountyName": "Hillsborough",
       "CountyState": null,
-      "CountyStatus": "#AA8600",
-      "OutageCount": 106781,
+      "CountyStatus": "#A98700",
+      "OutageCount": 105902,
       "CustomerCount": 673532
     },
     {
@@ -312,7 +312,7 @@
       "CountyName": "Manatee",
       "CountyState": null,
       "CountyStatus": "#B63D00",
-      "OutageCount": 87739,
+      "OutageCount": 87977,
       "CustomerCount": 235082
     },
     {
@@ -348,7 +348,7 @@
       "CountyName": "Monroe",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 12,
+      "OutageCount": 0,
       "CustomerCount": 99801
     },
     {
@@ -374,8 +374,8 @@
       "UtilityId": null,
       "CountyName": "Orange",
       "CountyState": null,
-      "CountyStatus": "#AF7500",
-      "OutageCount": 126900,
+      "CountyStatus": "#AF7600",
+      "OutageCount": 124997,
       "CustomerCount": 633025
     },
     {
@@ -384,7 +384,7 @@
       "CountyName": "Osceola",
       "CountyState": null,
       "CountyStatus": "#406F62",
-      "OutageCount": 7961,
+      "OutageCount": 7958,
       "CustomerCount": 200156
     },
     {
@@ -401,9 +401,9 @@
       "UtilityId": null,
       "CountyName": "Pasco",
       "CountyState": null,
-      "CountyStatus": "#195B89",
-      "OutageCount": 2794,
-      "CustomerCount": 184275
+      "CountyStatus": "#165A8C",
+      "OutageCount": 2798,
+      "CustomerCount": 210402
     },
     {
       "CountyId": 336,
@@ -419,17 +419,17 @@
       "UtilityId": null,
       "CountyName": "Polk",
       "CountyState": null,
-      "CountyStatus": "#B65E00",
-      "OutageCount": 121291,
-      "CustomerCount": 474108
+      "CountyStatus": "#BA4700",
+      "OutageCount": 121034,
+      "CustomerCount": 376141
     },
     {
       "CountyId": 338,
       "UtilityId": null,
       "CountyName": "Putnam",
       "CountyState": null,
-      "CountyStatus": "#4F7653",
-      "OutageCount": 2084,
+      "CountyStatus": "#4E7554",
+      "OutageCount": 2049,
       "CustomerCount": 42813
     },
     {
@@ -464,9 +464,9 @@
       "UtilityId": null,
       "CountyName": "Sumter",
       "CountyState": null,
-      "CountyStatus": "#0250A0",
-      "OutageCount": 109,
-      "CustomerCount": 99248
+      "CountyStatus": "#05529D",
+      "OutageCount": 272,
+      "CustomerCount": 84988
     },
     {
       "CountyId": 344,
@@ -510,7 +510,7 @@
       "CountyName": "Volusia",
       "CountyState": null,
       "CountyStatus": "#A31400",
-      "OutageCount": 184893,
+      "OutageCount": 185003,
       "CustomerCount": 312233
     },
     {
