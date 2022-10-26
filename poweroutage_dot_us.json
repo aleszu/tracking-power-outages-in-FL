@@ -6,7 +6,7 @@
       "CountyName": "Alachua",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 2,
       "CustomerCount": 133112
     },
     {
@@ -42,7 +42,7 @@
       "CountyName": "Brevard",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 8,
       "CustomerCount": 333901
     },
     {
@@ -88,7 +88,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 2,
-      "CustomerCount": 285709
+      "CustomerCount": 269545
     },
     {
       "CountyId": 300,
@@ -266,9 +266,9 @@
       "UtilityId": null,
       "CountyName": "Lee",
       "CountyState": null,
-      "CountyStatus": "#195B89",
-      "OutageCount": 8106,
-      "CustomerCount": 518896
+      "CountyStatus": "#1B5C87",
+      "OutageCount": 8116,
+      "CustomerCount": 489397
     },
     {
       "CountyId": 321,
@@ -339,7 +339,7 @@
       "CountyName": "Miami-dade",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 93,
+      "OutageCount": 94,
       "CustomerCount": 1198068
     },
     {
@@ -366,7 +366,7 @@
       "CountyName": "Okeechobee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 1,
       "CustomerCount": 23050
     },
     {
@@ -518,8 +518,8 @@
       "UtilityId": null,
       "CountyName": "Wakulla",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "CountyStatus": "#07529B",
+      "OutageCount": 73,
       "CustomerCount": 17497
     },
     {
