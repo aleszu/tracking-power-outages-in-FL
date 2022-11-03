@@ -42,7 +42,7 @@
       "CountyName": "Brevard",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 333832
     },
     {
@@ -51,7 +51,7 @@
       "CountyName": "Broward",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 9,
+      "OutageCount": 8,
       "CustomerCount": 892108
     },
     {
@@ -186,7 +186,7 @@
       "CountyName": "Hardee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 9528
     },
     {
@@ -221,8 +221,8 @@
       "UtilityId": null,
       "CountyName": "Hillsborough",
       "CountyState": null,
-      "CountyStatus": "#06529C",
-      "OutageCount": 2353,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 51,
       "CustomerCount": 673533
     },
     {
@@ -258,7 +258,7 @@
       "CountyName": "Lake",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 2,
       "CustomerCount": 170220
     },
     {
@@ -375,7 +375,7 @@
       "CountyName": "Orange",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 634222
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 4,
+      "OutageCount": 2,
       "CustomerCount": 571416
     },
     {
@@ -456,7 +456,7 @@
       "CountyName": "St. Lucie",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 4,
+      "OutageCount": 5,
       "CustomerCount": 177256
     },
     {
@@ -510,7 +510,7 @@
       "CountyName": "Volusia",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 4,
+      "OutageCount": 2,
       "CustomerCount": 312362
     },
     {
@@ -600,7 +600,7 @@
       "CountyName": "Desoto",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 15650
     },
     {
