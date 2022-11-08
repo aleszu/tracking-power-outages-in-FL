@@ -113,8 +113,8 @@
       "UtilityId": null,
       "CountyName": "Duval",
       "CountyState": null,
-      "CountyStatus": "#06529C",
-      "OutageCount": 1909,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 0,
       "CustomerCount": 477003
     },
     {
@@ -267,16 +267,16 @@
       "CountyName": "Lee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 488631
+      "OutageCount": 6,
+      "CustomerCount": 488598
     },
     {
       "CountyId": 321,
       "UtilityId": null,
       "CountyName": "Leon",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 6,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 56,
       "CustomerCount": 131056
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 42,
       "CustomerCount": 571432
     },
     {
@@ -509,8 +509,8 @@
       "UtilityId": null,
       "CountyName": "Volusia",
       "CountyState": null,
-      "CountyStatus": "#014FA1",
-      "OutageCount": 153,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 14,
       "CustomerCount": 312640
     },
     {
