@@ -6,7 +6,7 @@
       "CountyName": "Alachua",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 2,
       "CustomerCount": 133175
     },
     {
@@ -87,7 +87,7 @@
       "CountyName": "Collier",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 16,
+      "OutageCount": 6,
       "CustomerCount": 267188
     },
     {
@@ -114,7 +114,7 @@
       "CountyName": "Duval",
       "CountyState": null,
       "CountyStatus": "#0150A1",
-      "OutageCount": 330,
+      "OutageCount": 316,
       "CustomerCount": 477046
     },
     {
@@ -131,9 +131,9 @@
       "UtilityId": null,
       "CountyName": "Franklin",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 11138
+      "CountyStatus": "#014FA1",
+      "OutageCount": 5,
+      "CustomerCount": 11141
     },
     {
       "CountyId": 306,
@@ -222,7 +222,7 @@
       "CountyName": "Hillsborough",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 39,
+      "OutageCount": 24,
       "CustomerCount": 673533
     },
     {
@@ -284,8 +284,8 @@
       "UtilityId": null,
       "CountyName": "Levy",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "CountyStatus": "#0250A0",
+      "OutageCount": 29,
       "CustomerCount": 24844
     },
     {
@@ -312,7 +312,7 @@
       "CountyName": "Manatee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 4,
       "CustomerCount": 236156
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 25,
+      "OutageCount": 26,
       "CustomerCount": 571481
     },
     {
@@ -510,7 +510,7 @@
       "CountyName": "Volusia",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 20,
+      "OutageCount": 6,
       "CustomerCount": 310721
     },
     {
@@ -528,7 +528,7 @@
       "CountyName": "Escambia",
       "CountyState": null,
       "CountyStatus": "#0150A1",
-      "OutageCount": 143,
+      "OutageCount": 142,
       "CustomerCount": 157468
     },
     {
