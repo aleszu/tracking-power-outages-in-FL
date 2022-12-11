@@ -150,7 +150,7 @@
       "CountyName": "Gilchrist",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 2,
       "CustomerCount": 9850
     },
     {
@@ -257,9 +257,9 @@
       "UtilityId": null,
       "CountyName": "Lake",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 170813
+      "CountyStatus": "#014FA1",
+      "OutageCount": 63,
+      "CustomerCount": 170819
     },
     {
       "CountyId": 320,
@@ -375,7 +375,7 @@
       "CountyName": "Orange",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 8,
+      "OutageCount": 9,
       "CustomerCount": 635127
     },
     {
@@ -383,8 +383,8 @@
       "UtilityId": null,
       "CountyName": "Osceola",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 19,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 105,
       "CustomerCount": 201253
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 10,
+      "OutageCount": 9,
       "CustomerCount": 571805
     },
     {
@@ -420,7 +420,7 @@
       "CountyName": "Polk",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 2,
       "CustomerCount": 356789
     },
     {
@@ -447,7 +447,7 @@
       "CountyName": "Seminole",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 3,
+      "OutageCount": 2,
       "CustomerCount": 225668
     },
     {
