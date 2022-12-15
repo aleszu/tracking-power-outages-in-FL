@@ -24,7 +24,7 @@
       "CountyName": "Bay",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 4,
+      "OutageCount": 3,
       "CustomerCount": 116095
     },
     {
@@ -114,8 +114,8 @@
       "CountyName": "Duval",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 477793
+      "OutageCount": 5,
+      "CustomerCount": 477841
     },
     {
       "CountyId": 304,
@@ -140,8 +140,8 @@
       "UtilityId": null,
       "CountyName": "Gadsden",
       "CountyState": null,
-      "CountyStatus": "#296379",
-      "OutageCount": 389,
+      "CountyStatus": "#2E6674",
+      "OutageCount": 433,
       "CustomerCount": 15333
     },
     {
@@ -275,8 +275,8 @@
       "UtilityId": null,
       "CountyName": "Leon",
       "CountyState": null,
-      "CountyStatus": "#03509F",
-      "OutageCount": 241,
+      "CountyStatus": "#03519F",
+      "OutageCount": 260,
       "CustomerCount": 131059
     },
     {
@@ -608,8 +608,8 @@
       "UtilityId": null,
       "CountyName": "Calhoun",
       "CountyState": null,
-      "CountyStatus": "#6D8535",
-      "OutageCount": 369,
+      "CountyStatus": "#A49A00",
+      "OutageCount": 616,
       "CustomerCount": 5476
     }
   ]
