@@ -87,7 +87,7 @@
       "CountyName": "Collier",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 267485
     },
     {
@@ -267,7 +267,7 @@
       "CountyName": "Lee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 489031
     },
     {
@@ -294,7 +294,7 @@
       "CountyName": "Liberty",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 4181
     },
     {
@@ -545,8 +545,8 @@
       "UtilityId": null,
       "CountyName": "Jackson",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 8,
       "CustomerCount": 25576
     },
     {
