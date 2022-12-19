@@ -258,7 +258,7 @@
       "CountyName": "Lake",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 170817
     },
     {
@@ -313,7 +313,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 236422
+      "CustomerCount": 236457
     },
     {
       "CountyId": 326,
@@ -402,8 +402,8 @@
       "CountyName": "Pasco",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 43,
-      "CustomerCount": 304409
+      "OutageCount": 42,
+      "CustomerCount": 304413
     },
     {
       "CountyId": 336,
@@ -446,8 +446,8 @@
       "UtilityId": null,
       "CountyName": "Seminole",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 65,
+      "CountyStatus": "#0150A1",
+      "OutageCount": 144,
       "CustomerCount": 225477
     },
     {
