@@ -78,7 +78,7 @@
       "CountyName": "Clay",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 0,
       "CustomerCount": 96058
     },
     {
@@ -447,7 +447,7 @@
       "CountyName": "Seminole",
       "CountyState": null,
       "CountyStatus": "#0250A0",
-      "OutageCount": 250,
+      "OutageCount": 266,
       "CustomerCount": 225477
     },
     {
@@ -555,7 +555,7 @@
       "CountyName": "Okaloosa",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 16,
       "CustomerCount": 115092
     },
     {
@@ -572,9 +572,9 @@
       "UtilityId": null,
       "CountyName": "Walton",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 69180
+      "CountyStatus": "#014FA1",
+      "OutageCount": 26,
+      "CustomerCount": 69181
     },
     {
       "CountyId": 2278,
