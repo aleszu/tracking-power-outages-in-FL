@@ -24,7 +24,7 @@
       "CountyName": "Bay",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 3,
       "CustomerCount": 116117
     },
     {
@@ -250,7 +250,7 @@
       "CountyState": null,
       "CountyStatus": "#0150A1",
       "OutageCount": 3,
-      "CustomerCount": 4370
+      "CustomerCount": 4372
     },
     {
       "CountyId": 319,
@@ -482,9 +482,9 @@
       "UtilityId": null,
       "CountyName": "Taylor",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 13711
+      "CountyStatus": "#03509F",
+      "OutageCount": 24,
+      "CustomerCount": 13709
     },
     {
       "CountyId": 346,
@@ -518,8 +518,8 @@
       "UtilityId": null,
       "CountyName": "Wakulla",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 7,
       "CustomerCount": 17390
     },
     {
@@ -536,8 +536,8 @@
       "UtilityId": null,
       "CountyName": "Holmes",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 4,
       "CustomerCount": 10642
     },
     {
@@ -581,8 +581,8 @@
       "UtilityId": null,
       "CountyName": "Washington",
       "CountyState": null,
-      "CountyStatus": "#03509F",
-      "OutageCount": 21,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 5,
       "CustomerCount": 13276
     },
     {
