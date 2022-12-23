@@ -24,7 +24,7 @@
       "CountyName": "Bay",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 0,
       "CustomerCount": 116073
     },
     {
@@ -348,7 +348,7 @@
       "CountyName": "Monroe",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 3,
       "CustomerCount": 100158
     },
     {
@@ -375,7 +375,7 @@
       "CountyName": "Orange",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 0,
       "CustomerCount": 634989
     },
     {
@@ -402,7 +402,7 @@
       "CountyName": "Pasco",
       "CountyState": null,
       "CountyStatus": "#0D5595",
-      "OutageCount": 2460,
+      "OutageCount": 2456,
       "CustomerCount": 304523
     },
     {
@@ -410,8 +410,8 @@
       "UtilityId": null,
       "CountyName": "Pinellas",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 176,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 241,
       "CustomerCount": 571266
     },
     {
@@ -420,7 +420,7 @@
       "CountyName": "Polk",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 4,
+      "OutageCount": 5,
       "CustomerCount": 356710
     },
     {
@@ -482,8 +482,8 @@
       "UtilityId": null,
       "CountyName": "Taylor",
       "CountyState": null,
-      "CountyStatus": "#376A6B",
-      "OutageCount": 469,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 0,
       "CustomerCount": 13727
     },
     {
@@ -492,7 +492,7 @@
       "CountyName": "Union",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 5762
     },
     {
@@ -527,9 +527,9 @@
       "UtilityId": null,
       "CountyName": "Escambia",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 3,
-      "CustomerCount": 158833
+      "CountyStatus": "#0150A1",
+      "OutageCount": 123,
+      "CustomerCount": 157042
     },
     {
       "CountyId": 2273,
@@ -538,7 +538,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 1,
-      "CustomerCount": 10639
+      "CustomerCount": 12153
     },
     {
       "CountyId": 2274,
@@ -546,7 +546,7 @@
       "CountyName": "Jackson",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 33734
     },
     {
