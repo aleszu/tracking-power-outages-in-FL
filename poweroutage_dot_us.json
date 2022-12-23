@@ -222,7 +222,7 @@
       "CountyName": "Hillsborough",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 10,
       "CustomerCount": 673528
     },
     {
@@ -501,7 +501,7 @@
       "CountyName": "Unknown",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 14132
     },
     {
@@ -528,7 +528,7 @@
       "CountyName": "Escambia",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 2,
       "CustomerCount": 157042
     },
     {
@@ -554,8 +554,8 @@
       "UtilityId": null,
       "CountyName": "Okaloosa",
       "CountyState": null,
-      "CountyStatus": "#04519E",
-      "OutageCount": 272,
+      "CountyStatus": "#03509F",
+      "OutageCount": 184,
       "CustomerCount": 115086
     },
     {
@@ -563,8 +563,8 @@
       "UtilityId": null,
       "CountyName": "Santa Rosa",
       "CountyState": null,
-      "CountyStatus": "#014FA1",
-      "OutageCount": 43,
+      "CountyStatus": "#08539A",
+      "OutageCount": 435,
       "CustomerCount": 84850
     },
     {
@@ -572,9 +572,9 @@
       "UtilityId": null,
       "CountyName": "Walton",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 69209
+      "CountyStatus": "#014FA1",
+      "OutageCount": 27,
+      "CustomerCount": 69213
     },
     {
       "CountyId": 2278,
