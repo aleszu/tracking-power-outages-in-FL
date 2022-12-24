@@ -6,7 +6,7 @@
       "CountyName": "Alachua",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 11,
       "CustomerCount": 52670
     },
     {
@@ -24,8 +24,8 @@
       "CountyName": "Bay",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 3,
-      "CustomerCount": 116073
+      "OutageCount": 4,
+      "CustomerCount": 116050
     },
     {
       "CountyId": 293,
@@ -222,7 +222,7 @@
       "CountyName": "Hillsborough",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 59,
+      "OutageCount": 187,
       "CustomerCount": 673528
     },
     {
@@ -240,7 +240,7 @@
       "CountyName": "Jefferson",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 8731
     },
     {
@@ -258,7 +258,7 @@
       "CountyName": "Lake",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 16,
+      "OutageCount": 24,
       "CustomerCount": 170847
     },
     {
@@ -285,7 +285,7 @@
       "CountyName": "Levy",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 24846
     },
     {
@@ -321,7 +321,7 @@
       "CountyName": "Marion",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 171342
     },
     {
@@ -375,7 +375,7 @@
       "CountyName": "Orange",
       "CountyState": null,
       "CountyStatus": "#06529C",
-      "OutageCount": 2315,
+      "OutageCount": 2316,
       "CustomerCount": 634989
     },
     {
@@ -383,8 +383,8 @@
       "UtilityId": null,
       "CountyName": "Osceola",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 60,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 61,
       "CustomerCount": 197435
     },
     {
@@ -402,7 +402,7 @@
       "CountyName": "Pasco",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 304528
     },
     {
@@ -410,8 +410,8 @@
       "UtilityId": null,
       "CountyName": "Pinellas",
       "CountyState": null,
-      "CountyStatus": "#014FA1",
-      "OutageCount": 201,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 98,
       "CustomerCount": 571266
     },
     {
@@ -420,7 +420,7 @@
       "CountyName": "Polk",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 90,
       "CustomerCount": 356710
     },
     {
@@ -529,7 +529,7 @@
       "CountyState": null,
       "CountyStatus": "#03509F",
       "OutageCount": 274,
-      "CustomerCount": 158833
+      "CustomerCount": 158801
     },
     {
       "CountyId": 2273,
@@ -545,9 +545,9 @@
       "UtilityId": null,
       "CountyName": "Jackson",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 33734
+      "CountyStatus": "#0250A0",
+      "OutageCount": 39,
+      "CustomerCount": 25580
     },
     {
       "CountyId": 2275,
@@ -556,7 +556,7 @@
       "CountyState": null,
       "CountyStatus": "#03519F",
       "OutageCount": 222,
-      "CustomerCount": 115086
+      "CustomerCount": 115061
     },
     {
       "CountyId": 2276,
@@ -565,7 +565,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 88798
+      "CustomerCount": 88786
     },
     {
       "CountyId": 2277,
@@ -574,16 +574,16 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 1,
-      "CustomerCount": 69213
+      "CustomerCount": 69204
     },
     {
       "CountyId": 2278,
       "UtilityId": null,
       "CountyName": "Washington",
       "CountyState": null,
-      "CountyStatus": "#0E5694",
-      "OutageCount": 114,
-      "CustomerCount": 13274
+      "CountyStatus": "#105792",
+      "OutageCount": 135,
+      "CustomerCount": 13273
     },
     {
       "CountyId": 2317,
