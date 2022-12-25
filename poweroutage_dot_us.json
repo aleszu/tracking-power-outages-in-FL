@@ -6,7 +6,7 @@
       "CountyName": "Alachua",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 2,
       "CustomerCount": 52670
     },
     {
@@ -68,8 +68,8 @@
       "UtilityId": null,
       "CountyName": "Citrus",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "CountyStatus": "#1A5C88",
+      "OutageCount": 1505,
       "CustomerCount": 93934
     },
     {
@@ -149,9 +149,9 @@
       "UtilityId": null,
       "CountyName": "Gilchrist",
       "CountyState": null,
-      "CountyStatus": "#597B49",
-      "OutageCount": 540,
-      "CustomerCount": 9846
+      "CountyStatus": "#4E7654",
+      "OutageCount": 541,
+      "CustomerCount": 11173
     },
     {
       "CountyId": 308,
@@ -275,8 +275,8 @@
       "UtilityId": null,
       "CountyName": "Leon",
       "CountyState": null,
-      "CountyStatus": "#03509F",
-      "OutageCount": 213,
+      "CountyStatus": "#13588F",
+      "OutageCount": 1546,
       "CustomerCount": 131072
     },
     {
@@ -383,8 +383,8 @@
       "UtilityId": null,
       "CountyName": "Osceola",
       "CountyState": null,
-      "CountyStatus": "#03509F",
-      "OutageCount": 319,
+      "CountyStatus": "#06529C",
+      "OutageCount": 771,
       "CustomerCount": 197522
     },
     {
@@ -402,7 +402,7 @@
       "CountyName": "Pasco",
       "CountyState": null,
       "CountyStatus": "#175A8B",
-      "OutageCount": 4350,
+      "OutageCount": 4352,
       "CustomerCount": 304726
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 109,
+      "OutageCount": 110,
       "CustomerCount": 571473
     },
     {
@@ -420,7 +420,7 @@
       "CountyName": "Polk",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 84,
+      "OutageCount": 10,
       "CustomerCount": 357007
     },
     {
@@ -465,7 +465,7 @@
       "CountyName": "Sumter",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 3,
       "CustomerCount": 86044
     },
     {
@@ -528,7 +528,7 @@
       "CountyName": "Escambia",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 10,
+      "OutageCount": 9,
       "CustomerCount": 158772
     },
     {
@@ -538,7 +538,7 @@
       "CountyState": null,
       "CountyStatus": "#014FA1",
       "OutageCount": 6,
-      "CustomerCount": 10639
+      "CustomerCount": 12153
     },
     {
       "CountyId": 2274,
@@ -555,7 +555,7 @@
       "CountyName": "Okaloosa",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 4,
       "CustomerCount": 115037
     },
     {
