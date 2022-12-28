@@ -69,7 +69,7 @@
       "CountyName": "Citrus",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 4,
+      "OutageCount": 5,
       "CustomerCount": 93947
     },
     {
@@ -194,8 +194,8 @@
       "UtilityId": null,
       "CountyName": "Hendry",
       "CountyState": null,
-      "CountyStatus": "#014FA1",
-      "OutageCount": 5,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 0,
       "CustomerCount": 15060
     },
     {
@@ -286,7 +286,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 5,
-      "CustomerCount": 24849
+      "CustomerCount": 33641
     },
     {
       "CountyId": 323,
@@ -385,7 +385,7 @@
       "CountyState": null,
       "CountyStatus": "#014FA1",
       "OutageCount": 70,
-      "CustomerCount": 201362
+      "CustomerCount": 197525
     },
     {
       "CountyId": 334,
@@ -402,7 +402,7 @@
       "CountyName": "Pasco",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 10,
+      "OutageCount": 12,
       "CustomerCount": 304675
     },
     {
@@ -447,7 +447,7 @@
       "CountyName": "Seminole",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 225520
     },
     {
@@ -475,7 +475,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 1,
-      "CustomerCount": 24273
+      "CustomerCount": 24274
     },
     {
       "CountyId": 345,
@@ -546,7 +546,7 @@
       "CountyName": "Jackson",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 1,
       "CustomerCount": 33733
     },
     {
@@ -609,7 +609,7 @@
       "CountyName": "Calhoun",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 1,
       "CustomerCount": 15855
     }
   ]
