@@ -258,7 +258,7 @@
       "CountyName": "Lake",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 3,
       "CustomerCount": 170989
     },
     {
@@ -385,7 +385,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 1,
-      "CustomerCount": 197525
+      "CustomerCount": 201362
     },
     {
       "CountyId": 334,
@@ -402,7 +402,7 @@
       "CountyName": "Pasco",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 5,
+      "OutageCount": 3,
       "CustomerCount": 304675
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 6,
+      "OutageCount": 48,
       "CustomerCount": 571473
     },
     {
@@ -420,7 +420,7 @@
       "CountyName": "Polk",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 2,
       "CustomerCount": 357004
     },
     {
@@ -465,7 +465,7 @@
       "CountyName": "Sumter",
       "CountyState": null,
       "CountyStatus": "#014FA1",
-      "OutageCount": 40,
+      "OutageCount": 34,
       "CustomerCount": 86045
     },
     {
@@ -547,7 +547,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 2,
-      "CustomerCount": 25579
+      "CustomerCount": 33733
     },
     {
       "CountyId": 2275,
@@ -609,8 +609,8 @@
       "CountyName": "Calhoun",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
-      "CustomerCount": 15855
+      "OutageCount": 1,
+      "CustomerCount": 5477
     }
   ]
 }
