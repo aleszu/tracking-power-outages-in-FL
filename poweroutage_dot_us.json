@@ -267,7 +267,7 @@
       "CountyName": "Lee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 489156
     },
     {
@@ -546,8 +546,8 @@
       "CountyName": "Jackson",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
-      "CustomerCount": 25579
+      "OutageCount": 1,
+      "CustomerCount": 33733
     },
     {
       "CountyId": 2275,
@@ -608,9 +608,9 @@
       "UtilityId": null,
       "CountyName": "Calhoun",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
+      "CountyStatus": "#014FA1",
       "OutageCount": 2,
-      "CustomerCount": 15855
+      "CustomerCount": 5477
     }
   ]
 }
