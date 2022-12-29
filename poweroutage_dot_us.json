@@ -132,7 +132,7 @@
       "CountyName": "Franklin",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 11164
     },
     {
@@ -213,7 +213,7 @@
       "CountyName": "Highlands",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 65590
     },
     {
@@ -276,7 +276,7 @@
       "CountyName": "Leon",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 3,
+      "OutageCount": 1,
       "CustomerCount": 131077
     },
     {
@@ -321,7 +321,7 @@
       "CountyName": "Marion",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 4,
       "CustomerCount": 171987
     },
     {
@@ -402,7 +402,7 @@
       "CountyName": "Pasco",
       "CountyState": null,
       "CountyStatus": "#0150A1",
-      "OutageCount": 220,
+      "OutageCount": 221,
       "CustomerCount": 304699
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 46,
+      "OutageCount": 51,
       "CustomerCount": 571473
     },
     {
@@ -420,7 +420,7 @@
       "CountyName": "Polk",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 85,
+      "OutageCount": 86,
       "CustomerCount": 357028
     },
     {
@@ -429,7 +429,7 @@
       "CountyName": "Putnam",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 42546
     },
     {
@@ -536,8 +536,8 @@
       "UtilityId": null,
       "CountyName": "Holmes",
       "CountyState": null,
-      "CountyStatus": "#014FA1",
-      "OutageCount": 6,
+      "CountyStatus": "#0250A0",
+      "OutageCount": 10,
       "CustomerCount": 10637
     },
     {
@@ -547,7 +547,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 3,
-      "CustomerCount": 25585
+      "CustomerCount": 33739
     },
     {
       "CountyId": 2275,
@@ -564,7 +564,7 @@
       "CountyName": "Santa Rosa",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 6,
+      "OutageCount": 7,
       "CustomerCount": 84838
     },
     {
@@ -573,7 +573,7 @@
       "CountyName": "Walton",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 8,
       "CustomerCount": 69187
     },
     {
@@ -582,7 +582,7 @@
       "CountyName": "Washington",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 2,
       "CustomerCount": 24437
     },
     {
