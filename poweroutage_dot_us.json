@@ -168,7 +168,7 @@
       "CountyName": "Gulf",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 11829
     },
     {
@@ -258,7 +258,7 @@
       "CountyName": "Lake",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 3,
+      "OutageCount": 1,
       "CustomerCount": 170989
     },
     {
@@ -546,8 +546,8 @@
       "CountyName": "Jackson",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
-      "CustomerCount": 33733
+      "OutageCount": 2,
+      "CustomerCount": 25579
     },
     {
       "CountyId": 2275,
@@ -608,9 +608,9 @@
       "UtilityId": null,
       "CountyName": "Calhoun",
       "CountyState": null,
-      "CountyStatus": "#014FA1",
+      "CountyStatus": "#004FA2",
       "OutageCount": 2,
-      "CustomerCount": 5477
+      "CustomerCount": 15855
     }
   ]
 }
