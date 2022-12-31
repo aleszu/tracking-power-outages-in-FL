@@ -222,7 +222,7 @@
       "CountyName": "Hillsborough",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 1,
       "CustomerCount": 673527
     },
     {
@@ -276,7 +276,7 @@
       "CountyName": "Leon",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 2,
       "CustomerCount": 131083
     },
     {
@@ -284,9 +284,9 @@
       "UtilityId": null,
       "CountyName": "Levy",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 33642
+      "CountyStatus": "#0250A0",
+      "OutageCount": 30,
+      "CustomerCount": 24850
     },
     {
       "CountyId": 323,
@@ -321,7 +321,7 @@
       "CountyName": "Marion",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 172016
     },
     {
@@ -374,8 +374,8 @@
       "UtilityId": null,
       "CountyName": "Orange",
       "CountyState": null,
-      "CountyStatus": "#0250A0",
-      "OutageCount": 888,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 57,
       "CustomerCount": 635192
     },
     {
@@ -384,7 +384,7 @@
       "CountyName": "Osceola",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 197538
     },
     {
@@ -402,7 +402,7 @@
       "CountyName": "Pasco",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 0,
       "CustomerCount": 304892
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 34,
       "CustomerCount": 571473
     },
     {
@@ -528,7 +528,7 @@
       "CountyName": "Escambia",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 7,
+      "OutageCount": 6,
       "CustomerCount": 158765
     },
     {
