@@ -321,7 +321,7 @@
       "CountyName": "Marion",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 172016
     },
     {
@@ -375,7 +375,7 @@
       "CountyName": "Orange",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 11,
+      "OutageCount": 9,
       "CustomerCount": 635192
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#05529D",
-      "OutageCount": 1847,
+      "OutageCount": 1879,
       "CustomerCount": 571473
     },
     {
@@ -564,8 +564,8 @@
       "CountyName": "Santa Rosa",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
-      "CustomerCount": 88750
+      "OutageCount": 2,
+      "CustomerCount": 84802
     },
     {
       "CountyId": 2277,
