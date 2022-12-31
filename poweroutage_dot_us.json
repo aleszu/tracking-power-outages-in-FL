@@ -69,8 +69,8 @@
       "CountyName": "Citrus",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 93955
+      "OutageCount": 1,
+      "CustomerCount": 93952
     },
     {
       "CountyId": 298,
@@ -113,8 +113,8 @@
       "UtilityId": null,
       "CountyName": "Duval",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 113,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 164,
       "CustomerCount": 478286
     },
     {
@@ -149,8 +149,8 @@
       "UtilityId": null,
       "CountyName": "Gilchrist",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "CountyStatus": "#0250A0",
+      "OutageCount": 12,
       "CustomerCount": 9846
     },
     {
@@ -204,7 +204,7 @@
       "CountyName": "Hernando",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 101739
     },
     {
@@ -420,7 +420,7 @@
       "CountyName": "Polk",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 8,
+      "OutageCount": 9,
       "CustomerCount": 357033
     },
     {
@@ -538,7 +538,7 @@
       "CountyState": null,
       "CountyStatus": "#0150A1",
       "OutageCount": 9,
-      "CustomerCount": 10637
+      "CustomerCount": 12151
     },
     {
       "CountyId": 2274,
