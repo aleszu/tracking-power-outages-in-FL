@@ -6,7 +6,7 @@
       "CountyName": "Alachua",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 135336
     },
     {
@@ -25,7 +25,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 116048
+      "CustomerCount": 116041
     },
     {
       "CountyId": 293,
@@ -419,8 +419,8 @@
       "UtilityId": null,
       "CountyName": "Polk",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 84,
+      "CountyStatus": "#0F5793",
+      "OutageCount": 3354,
       "CustomerCount": 357230
     },
     {
@@ -528,8 +528,8 @@
       "CountyName": "Escambia",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 158727
+      "OutageCount": 1,
+      "CustomerCount": 158710
     },
     {
       "CountyId": 2273,
@@ -555,8 +555,8 @@
       "CountyName": "Okaloosa",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
-      "CustomerCount": 114998
+      "OutageCount": 0,
+      "CustomerCount": 114989
     },
     {
       "CountyId": 2276,
@@ -565,7 +565,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 88725
+      "CustomerCount": 88720
     },
     {
       "CountyId": 2277,
@@ -574,7 +574,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 69188
+      "CustomerCount": 69187
     },
     {
       "CountyId": 2278,
