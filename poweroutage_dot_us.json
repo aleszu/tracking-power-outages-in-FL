@@ -69,7 +69,7 @@
       "CountyName": "Citrus",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 2,
       "CustomerCount": 93974
     },
     {
@@ -78,7 +78,7 @@
       "CountyName": "Clay",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 5,
+      "OutageCount": 0,
       "CustomerCount": 96091
     },
     {
@@ -131,8 +131,8 @@
       "UtilityId": null,
       "CountyName": "Franklin",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 4,
       "CustomerCount": 11166
     },
     {
@@ -140,8 +140,8 @@
       "UtilityId": null,
       "CountyName": "Gadsden",
       "CountyState": null,
-      "CountyStatus": "#014FA1",
-      "OutageCount": 7,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 0,
       "CustomerCount": 15350
     },
     {
@@ -204,7 +204,7 @@
       "CountyName": "Hernando",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 15,
+      "OutageCount": 14,
       "CustomerCount": 101764
     },
     {
@@ -222,7 +222,7 @@
       "CountyName": "Hillsborough",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 41,
+      "OutageCount": 56,
       "CustomerCount": 673527
     },
     {
@@ -276,7 +276,7 @@
       "CountyName": "Leon",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 1,
       "CustomerCount": 131082
     },
     {
@@ -375,7 +375,7 @@
       "CountyName": "Orange",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 17,
+      "OutageCount": 10,
       "CustomerCount": 635362
     },
     {
@@ -402,7 +402,7 @@
       "CountyName": "Pasco",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 57,
+      "OutageCount": 55,
       "CustomerCount": 304990
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 139,
+      "OutageCount": 125,
       "CustomerCount": 571586
     },
     {
@@ -475,7 +475,7 @@
       "CountyState": null,
       "CountyStatus": "#014FA1",
       "OutageCount": 8,
-      "CustomerCount": 24253
+      "CustomerCount": 24278
     },
     {
       "CountyId": 345,
