@@ -24,7 +24,7 @@
       "CountyName": "Bay",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 2,
       "CustomerCount": 116016
     },
     {
@@ -70,7 +70,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 4,
-      "CustomerCount": 93995
+      "CustomerCount": 94001
     },
     {
       "CountyId": 298,
@@ -176,9 +176,9 @@
       "UtilityId": null,
       "CountyName": "Hamilton",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 2,
-      "CustomerCount": 7132
+      "CountyStatus": "#014FA1",
+      "OutageCount": 3,
+      "CustomerCount": 7133
     },
     {
       "CountyId": 311,
@@ -259,7 +259,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 2,
-      "CustomerCount": 171091
+      "CustomerCount": 171135
     },
     {
       "CountyId": 320,
@@ -276,7 +276,7 @@
       "CountyName": "Leon",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 131080
     },
     {
@@ -312,7 +312,7 @@
       "CountyName": "Manatee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 236492
     },
     {
@@ -403,7 +403,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 1,
-      "CustomerCount": 305035
+      "CustomerCount": 305100
     },
     {
       "CountyId": 336,
@@ -411,8 +411,8 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
-      "CustomerCount": 571586
+      "OutageCount": 11,
+      "CustomerCount": 571663
     },
     {
       "CountyId": 337,
@@ -420,8 +420,8 @@
       "CountyName": "Polk",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 357260
+      "OutageCount": 1,
+      "CustomerCount": 357311
     },
     {
       "CountyId": 338,
@@ -511,7 +511,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 14,
-      "CustomerCount": 310823
+      "CustomerCount": 310865
     },
     {
       "CountyId": 349,
