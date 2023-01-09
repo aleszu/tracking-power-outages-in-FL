@@ -69,7 +69,7 @@
       "CountyName": "Citrus",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 94002
     },
     {
@@ -97,7 +97,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 35398
+      "CustomerCount": 35401
     },
     {
       "CountyId": 302,
@@ -132,7 +132,7 @@
       "CountyName": "Franklin",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 3,
       "CustomerCount": 11166
     },
     {
@@ -140,8 +140,8 @@
       "UtilityId": null,
       "CountyName": "Gadsden",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "CountyStatus": "#0150A1",
+      "OutageCount": 12,
       "CustomerCount": 15354
     },
     {
@@ -178,7 +178,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 7110
+      "CustomerCount": 7113
     },
     {
       "CountyId": 311,
@@ -222,7 +222,7 @@
       "CountyName": "Hillsborough",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 149,
+      "OutageCount": 0,
       "CustomerCount": 673529
     },
     {
@@ -250,7 +250,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 4359
+      "CustomerCount": 4362
     },
     {
       "CountyId": 319,
@@ -267,7 +267,7 @@
       "CountyName": "Lee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 20,
+      "OutageCount": 19,
       "CustomerCount": 489280
     },
     {
@@ -276,7 +276,7 @@
       "CountyName": "Leon",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 131083
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 24,
+      "OutageCount": 17,
       "CustomerCount": 571663
     },
     {
@@ -420,7 +420,7 @@
       "CountyName": "Polk",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 24,
+      "OutageCount": 54,
       "CustomerCount": 357311
     },
     {
@@ -475,7 +475,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 24246
+      "CustomerCount": 24264
     },
     {
       "CountyId": 345,
