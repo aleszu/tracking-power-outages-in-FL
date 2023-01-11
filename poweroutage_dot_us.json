@@ -78,7 +78,7 @@
       "CountyName": "Clay",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 0,
       "CustomerCount": 96109
     },
     {
@@ -97,7 +97,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 35407
+      "CustomerCount": 35397
     },
     {
       "CountyId": 302,
@@ -178,7 +178,7 @@
       "CountyState": null,
       "CountyStatus": "#014FA1",
       "OutageCount": 4,
-      "CustomerCount": 7129
+      "CustomerCount": 7119
     },
     {
       "CountyId": 311,
@@ -204,7 +204,7 @@
       "CountyName": "Hernando",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 2,
       "CustomerCount": 101839
     },
     {
@@ -250,7 +250,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 4381
+      "CustomerCount": 4372
     },
     {
       "CountyId": 319,
@@ -276,7 +276,7 @@
       "CountyName": "Leon",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 6,
+      "OutageCount": 5,
       "CustomerCount": 131089
     },
     {
@@ -284,8 +284,8 @@
       "UtilityId": null,
       "CountyName": "Levy",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "CountyStatus": "#0150A1",
+      "OutageCount": 16,
       "CustomerCount": 24854
     },
     {
@@ -375,7 +375,7 @@
       "CountyName": "Orange",
       "CountyState": null,
       "CountyStatus": "#0B5497",
-      "OutageCount": 4175,
+      "OutageCount": 4169,
       "CustomerCount": 635589
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 154,
+      "OutageCount": 159,
       "CustomerCount": 571663
     },
     {
@@ -428,8 +428,8 @@
       "UtilityId": null,
       "CountyName": "Putnam",
       "CountyState": null,
-      "CountyStatus": "#0250A0",
-      "OutageCount": 48,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 4,
       "CustomerCount": 42557
     },
     {
@@ -475,7 +475,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 1,
-      "CustomerCount": 24351
+      "CustomerCount": 24309
     },
     {
       "CountyId": 345,
@@ -510,7 +510,7 @@
       "CountyName": "Volusia",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 6,
+      "OutageCount": 5,
       "CustomerCount": 310864
     },
     {
@@ -563,8 +563,8 @@
       "UtilityId": null,
       "CountyName": "Santa Rosa",
       "CountyState": null,
-      "CountyStatus": "#55794D",
-      "OutageCount": 4472,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 13,
       "CustomerCount": 84763
     },
     {
