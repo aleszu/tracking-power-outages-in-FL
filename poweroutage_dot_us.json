@@ -6,7 +6,7 @@
       "CountyName": "Alachua",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 2,
       "CustomerCount": 133300
     },
     {
@@ -24,7 +24,7 @@
       "CountyName": "Bay",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 115981
     },
     {
@@ -168,7 +168,7 @@
       "CountyName": "Gulf",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 11838
     },
     {
@@ -275,8 +275,8 @@
       "UtilityId": null,
       "CountyName": "Leon",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 3,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 72,
       "CustomerCount": 131094
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 3,
+      "OutageCount": 2,
       "CustomerCount": 571663
     },
     {
