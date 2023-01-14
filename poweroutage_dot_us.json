@@ -6,7 +6,7 @@
       "CountyName": "Alachua",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 2,
       "CustomerCount": 133300
     },
     {
@@ -24,7 +24,7 @@
       "CountyName": "Bay",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 33,
+      "OutageCount": 1,
       "CustomerCount": 115981
     },
     {
@@ -70,7 +70,7 @@
       "CountyState": null,
       "CountyStatus": "#03519F",
       "OutageCount": 181,
-      "CustomerCount": 94022
+      "CustomerCount": 94034
     },
     {
       "CountyId": 298,
@@ -322,7 +322,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 1,
-      "CustomerCount": 210272
+      "CustomerCount": 210306
     },
     {
       "CountyId": 327,
@@ -376,7 +376,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 3,
-      "CustomerCount": 635685
+      "CustomerCount": 635765
     },
     {
       "CountyId": 333,
@@ -411,8 +411,8 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 4,
-      "CustomerCount": 571663
+      "OutageCount": 3,
+      "CustomerCount": 571797
     },
     {
       "CountyId": 337,
@@ -447,7 +447,7 @@
       "CountyName": "Seminole",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 225537
     },
     {
