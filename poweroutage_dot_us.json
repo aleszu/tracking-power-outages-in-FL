@@ -140,9 +140,9 @@
       "UtilityId": null,
       "CountyName": "Gadsden",
       "CountyState": null,
-      "CountyStatus": "#0150A1",
-      "OutageCount": 12,
-      "CustomerCount": 15353
+      "CountyStatus": "#004FA2",
+      "OutageCount": 0,
+      "CustomerCount": 15352
     },
     {
       "CountyId": 307,
@@ -384,7 +384,7 @@
       "CountyName": "Osceola",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 201663
     },
     {
@@ -447,7 +447,7 @@
       "CountyName": "Seminole",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 4,
       "CustomerCount": 225557
     },
     {
