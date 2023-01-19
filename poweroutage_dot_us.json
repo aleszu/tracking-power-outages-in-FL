@@ -6,7 +6,7 @@
       "CountyName": "Alachua",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 0,
       "CustomerCount": 133315
     },
     {
@@ -97,7 +97,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 35420
+      "CustomerCount": 35421
     },
     {
       "CountyId": 302,
@@ -150,7 +150,7 @@
       "CountyName": "Gilchrist",
       "CountyState": null,
       "CountyStatus": "#0A5498",
-      "OutageCount": 60,
+      "OutageCount": 62,
       "CustomerCount": 9847
     },
     {
@@ -248,9 +248,9 @@
       "UtilityId": null,
       "CountyName": "Lafayette",
       "CountyState": null,
-      "CountyStatus": "#04519E",
-      "OutageCount": 10,
-      "CustomerCount": 4421
+      "CountyStatus": "#08539A",
+      "OutageCount": 23,
+      "CustomerCount": 4422
     },
     {
       "CountyId": 319,
@@ -267,7 +267,7 @@
       "CountyName": "Lee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 5,
+      "OutageCount": 2,
       "CustomerCount": 489410
     },
     {
@@ -375,7 +375,7 @@
       "CountyName": "Orange",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 10,
+      "OutageCount": 11,
       "CustomerCount": 635889
     },
     {
@@ -384,7 +384,7 @@
       "CountyName": "Osceola",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 0,
       "CustomerCount": 201663
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 109,
+      "OutageCount": 108,
       "CustomerCount": 571797
     },
     {
@@ -420,7 +420,7 @@
       "CountyName": "Polk",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 9,
+      "OutageCount": 8,
       "CustomerCount": 357588
     },
     {
