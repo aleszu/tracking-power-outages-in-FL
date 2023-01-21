@@ -6,7 +6,7 @@
       "CountyName": "Alachua",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 3,
       "CustomerCount": 133318
     },
     {
@@ -257,9 +257,9 @@
       "UtilityId": null,
       "CountyName": "Lake",
       "CountyState": null,
-      "CountyStatus": "#004FA2",
-      "OutageCount": 50,
-      "CustomerCount": 171270
+      "CountyStatus": "#014FA1",
+      "OutageCount": 69,
+      "CustomerCount": 171285
     },
     {
       "CountyId": 320,
@@ -267,7 +267,7 @@
       "CountyName": "Lee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 489433
     },
     {
@@ -321,8 +321,8 @@
       "CountyName": "Marion",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 7,
-      "CustomerCount": 210358
+      "OutageCount": 15,
+      "CustomerCount": 210414
     },
     {
       "CountyId": 327,
@@ -375,8 +375,8 @@
       "CountyName": "Orange",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
-      "CustomerCount": 635925
+      "OutageCount": 1,
+      "CustomerCount": 636078
     },
     {
       "CountyId": 333,
@@ -402,8 +402,8 @@
       "CountyName": "Pasco",
       "CountyState": null,
       "CountyStatus": "#08539A",
-      "OutageCount": 1534,
-      "CustomerCount": 305315
+      "OutageCount": 1540,
+      "CustomerCount": 305405
     },
     {
       "CountyId": 336,
@@ -411,8 +411,8 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 4,
-      "CustomerCount": 571797
+      "OutageCount": 17,
+      "CustomerCount": 571907
     },
     {
       "CountyId": 337,
@@ -474,7 +474,7 @@
       "CountyName": "Suwannee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 2,
       "CustomerCount": 24487
     },
     {
@@ -511,7 +511,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 2,
-      "CustomerCount": 311059
+      "CustomerCount": 311116
     },
     {
       "CountyId": 349,
@@ -519,8 +519,8 @@
       "CountyName": "Wakulla",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
-      "CustomerCount": 17568
+      "OutageCount": 0,
+      "CustomerCount": 17572
     },
     {
       "CountyId": 2272,
