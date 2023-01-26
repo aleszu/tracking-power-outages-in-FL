@@ -204,7 +204,7 @@
       "CountyName": "Hernando",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 0,
       "CustomerCount": 101851
     },
     {
@@ -222,7 +222,7 @@
       "CountyName": "Hillsborough",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 3,
+      "OutageCount": 59,
       "CustomerCount": 673530
     },
     {
@@ -240,7 +240,7 @@
       "CountyName": "Jefferson",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 8736
     },
     {
@@ -258,7 +258,7 @@
       "CountyName": "Lake",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 10,
+      "OutageCount": 9,
       "CustomerCount": 171355
     },
     {
@@ -267,7 +267,7 @@
       "CountyName": "Lee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 3,
+      "OutageCount": 4,
       "CustomerCount": 489512
     },
     {
@@ -276,7 +276,7 @@
       "CountyName": "Leon",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 0,
       "CustomerCount": 131097
     },
     {
@@ -321,7 +321,7 @@
       "CountyName": "Marion",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 11,
+      "OutageCount": 10,
       "CustomerCount": 210443
     },
     {
@@ -411,7 +411,7 @@
       "CountyName": "Pinellas",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 74,
+      "OutageCount": 85,
       "CustomerCount": 571907
     },
     {
@@ -420,7 +420,7 @@
       "CountyName": "Polk",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 40,
+      "OutageCount": 39,
       "CustomerCount": 357879
     },
     {
@@ -474,7 +474,7 @@
       "CountyName": "Suwannee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 3,
+      "OutageCount": 5,
       "CustomerCount": 24483
     },
     {
@@ -528,7 +528,7 @@
       "CountyName": "Escambia",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 4,
+      "OutageCount": 2,
       "CustomerCount": 156732
     },
     {
@@ -608,8 +608,8 @@
       "UtilityId": null,
       "CountyName": "Calhoun",
       "CountyState": null,
-      "CountyStatus": "#0150A1",
-      "OutageCount": 5,
+      "CountyStatus": "#0250A0",
+      "OutageCount": 7,
       "CustomerCount": 5476
     }
   ]
