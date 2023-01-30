@@ -24,7 +24,7 @@
       "CountyName": "Bay",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 1,
       "CustomerCount": 115788
     },
     {
@@ -77,8 +77,8 @@
       "UtilityId": null,
       "CountyName": "Clay",
       "CountyState": null,
-      "CountyStatus": "#095399",
-      "OutageCount": 541,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 4,
       "CustomerCount": 96273
     },
     {
@@ -96,7 +96,7 @@
       "CountyName": "Columbia",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 35430
     },
     {
@@ -178,7 +178,7 @@
       "CountyState": null,
       "CountyStatus": "#004FA2",
       "OutageCount": 0,
-      "CustomerCount": 7135
+      "CustomerCount": 7137
     },
     {
       "CountyId": 311,
@@ -258,7 +258,7 @@
       "CountyName": "Lake",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 171530
     },
     {
@@ -473,9 +473,9 @@
       "UtilityId": null,
       "CountyName": "Suwannee",
       "CountyState": null,
-      "CountyStatus": "#014FA1",
-      "OutageCount": 8,
-      "CustomerCount": 24431
+      "CountyStatus": "#004FA2",
+      "OutageCount": 4,
+      "CustomerCount": 24434
     },
     {
       "CountyId": 345,
@@ -573,7 +573,7 @@
       "CountyName": "Walton",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 13,
+      "OutageCount": 5,
       "CustomerCount": 69342
     },
     {
