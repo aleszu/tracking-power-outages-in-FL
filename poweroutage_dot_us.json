@@ -24,7 +24,7 @@
       "CountyName": "Bay",
       "CountyState": null,
       "CountyStatus": "#0150A1",
-      "OutageCount": 99,
+      "OutageCount": 101,
       "CustomerCount": 115802
     },
     {
@@ -87,7 +87,7 @@
       "CountyName": "Collier",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 2,
       "CustomerCount": 267562
     },
     {
@@ -141,7 +141,7 @@
       "CountyName": "Gadsden",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 15342
     },
     {
@@ -176,8 +176,8 @@
       "UtilityId": null,
       "CountyName": "Hamilton",
       "CountyState": null,
-      "CountyStatus": "#0150A1",
-      "OutageCount": 5,
+      "CountyStatus": "#014FA1",
+      "OutageCount": 4,
       "CustomerCount": 7146
     },
     {
@@ -267,7 +267,7 @@
       "CountyName": "Lee",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 3,
+      "OutageCount": 4,
       "CustomerCount": 485427
     },
     {
@@ -276,8 +276,8 @@
       "CountyName": "Leon",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 9,
-      "CustomerCount": 131098
+      "OutageCount": 0,
+      "CustomerCount": 131102
     },
     {
       "CountyId": 322,
@@ -321,7 +321,7 @@
       "CountyName": "Marion",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 20,
+      "OutageCount": 18,
       "CustomerCount": 210537
     },
     {
@@ -402,7 +402,7 @@
       "CountyName": "Pasco",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 58,
+      "OutageCount": 33,
       "CustomerCount": 305595
     },
     {
@@ -420,7 +420,7 @@
       "CountyName": "Polk",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 358191
     },
     {
@@ -428,8 +428,8 @@
       "UtilityId": null,
       "CountyName": "Putnam",
       "CountyState": null,
-      "CountyStatus": "#014FA1",
-      "OutageCount": 15,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 13,
       "CustomerCount": 42576
     },
     {
@@ -473,8 +473,8 @@
       "UtilityId": null,
       "CountyName": "Suwannee",
       "CountyState": null,
-      "CountyStatus": "#014FA1",
-      "OutageCount": 8,
+      "CountyStatus": "#004FA2",
+      "OutageCount": 7,
       "CustomerCount": 24479
     },
     {
@@ -519,8 +519,8 @@
       "CountyName": "Wakulla",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 5,
-      "CustomerCount": 17589
+      "OutageCount": 1,
+      "CustomerCount": 17588
     },
     {
       "CountyId": 2272,
@@ -528,7 +528,7 @@
       "CountyName": "Escambia",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 1,
+      "OutageCount": 0,
       "CustomerCount": 156602
     },
     {
@@ -564,7 +564,7 @@
       "CountyName": "Santa Rosa",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 2,
+      "OutageCount": 3,
       "CustomerCount": 84602
     },
     {
@@ -582,7 +582,7 @@
       "CountyName": "Washington",
       "CountyState": null,
       "CountyStatus": "#004FA2",
-      "OutageCount": 0,
+      "OutageCount": 1,
       "CustomerCount": 13270
     },
     {
